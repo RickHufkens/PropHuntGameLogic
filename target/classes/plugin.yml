@@ -1,0 +1,4 @@
+name: PropHuntGameLogic
+version: '1.0-SNAPSHOT'
+main: me.paradoxzero.prophuntgamelogic.PropHuntGameLogic
+api-version: '1.20'

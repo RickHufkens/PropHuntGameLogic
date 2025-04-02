@@ -1,0 +1,4 @@
+name: PropHuntGameLogic
+version: '${project.version}'
+main: me.paradoxzero.prophuntgamelogic.PropHuntGameLogic
+api-version: '1.20'
